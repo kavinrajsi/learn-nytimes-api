@@ -1,4 +1,4 @@
-const baseURI = "http://api.nytimes.com/svc/topstories/v2";
+const baseURI = "https://api.nytimes.com/svc/topstories/v2";
 
 class TheTimes {
   constructor(apiKey) {
